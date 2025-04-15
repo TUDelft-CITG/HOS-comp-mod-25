@@ -12,7 +12,7 @@ The *Computational Modelling* unit is part of all modules B in the **Hydraulic a
 * [CIEM4220 Dams, Dikes and Breakwaters](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63756)
 * [CIEM4230 Floating and Submerged Structures](https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=63757)
 
-This unit is also shared with the course on *Introduction to Computational Dynamics of Offshore Structures (OE44090)* from the **Offshore and Dredging Engineering** MSc program.
+This unit is also shared with the course on [*Numerical Methods for Offshore and Dredging Engineering (OE44185)*](https://studyguide.tudelft.nl/a101_displayCourse.do?course_id=70278) from the **Offshore and Dredging Engineering** MSc program.
 
 The central topic of the unit is the definition and analysis of numerical methods to solve PDEs that govern hydraulic and offshore structures. In this unit it is assumed that the students have already the basic knowledge of the following basic concepts (acquired in the [MUDE](https://mude.citg.tudelft.nl/book/intro.html)):
 
