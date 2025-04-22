@@ -7,7 +7,7 @@ title: "Week 1: Introduction Unit CIEM42X0-CM"
 
 Lecture
 : Introduction to Computational Dynamics of Offshore Structure
-  <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
+  <br><em>Wednesday, 08:45-12:45, CEG - 1.98</em>
 
 Homework
 : Study content of week 1
