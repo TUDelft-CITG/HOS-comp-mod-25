@@ -21,6 +21,6 @@ The assessment for **Computational Modelling** is tailored for each B module as 
 -   **HOS-B3 Floating and Submerged Structures**:
   - Embedded chapters on the floating-submerged tunnel project. The description of the project can be found [here](./assets/projects/CIEM4230-Project-2025.pdf).
   - Specific questions in the oral exam
--   **OE44090 Introduction to Computational Dynamics of Offshore Structures**:
-  - Stand-alone project on floating wind turbine. The description of the project can be found [here](./assets/projects/OE44090-Project-2025.pdf).
-  - Written exam
+-   **OE44090 Numerical methods in Offshore and Dredging Engineering**:
+  - Stand-alone project on floating wind turbine. The description of the project can be found [here](./assets/projects/OE44185-Project-2025.pdf).
+  - Oral exam
