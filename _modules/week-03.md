@@ -15,7 +15,6 @@ Homework
 Workshop
 : Workshop 6, Workshop 7, Workshop 8
   <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
-  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
 
 <!-- Holidays
 : None -->
