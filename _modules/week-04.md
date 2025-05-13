@@ -32,6 +32,6 @@ Week 4. Computational methods for time-dependent Partial Differential Equations 
 <i>2. Numerical integration [2.6](https://teachbooks.tudelft.nl/computational-modelling/introduction/numerical_integration.html)</i> <br>
 {: .content }
 
-[Workshop 1](../assets/notebooks/FEM_2D_linear_elasticity.ipynb)
+[Workshop 1](./assets/notebooks/FEM_2D_linear_elasticity.ipynb)
 [Workshop 1 (old version)](https://teachbooks.tudelft.nl/computational-modelling/continuum_linear/Exercises/Workshop_FEM_Linear_Elasticity.html)<br>
 {: .exercises }
