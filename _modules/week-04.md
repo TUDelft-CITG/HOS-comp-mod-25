@@ -15,7 +15,6 @@ Homework
 Workshop
 : Workshop: FEM for Linear Elasticity
   <br><em>Wednesday, 08:45-12:45, Flux Hall D</em>
-  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
 
 <!-- Holidays
 : None -->
