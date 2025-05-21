@@ -7,15 +7,14 @@ title: "Week 5: Modal analysis for time-dependent Partial Differential Equations
 
 Lecture
 : Modal analysis for time-dependent Partial Differential Equations
-  <br><em>Wednesday, 08:45-12:45, CEG 1.98</em>
+  <br><em>Wednesday, 08:45-12:45, Flux Hall-D</em>
 
 Homework
 : Study content of week 5
 
 Workshop
 : Workshop: Modal Analysis for FEM
-  <br><em>Wednesday, 08:45-12:45, CEG 1.98</em>
-  <br><em>Thursday, 13:45-15:45, Flux Hall D</em>
+  <br><em>Wednesday, 08:45-12:45, Flux Hall-D</em>
 
 <!-- Holidays
 : None -->
